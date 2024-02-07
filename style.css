@@ -1,0 +1,42 @@
+body{
+  background-image: url(rr.avif);
+  background-size: cover;
+  width: 200px;
+  height:100vh ;
+  background-repeat: no-repeat;
+}
+
+.register{
+  justify-content: center;
+  border: 3px solid white;
+  width: 300px;
+  height: 450px;
+  text-align: center;
+  margin: 100px 200px;
+
+  border-radius: 30px;
+  color: aliceblue;
+ background-color: rgba(255, 99, 71, 0.4);
+ padding: 10px;
+ filter: brightness(1.5);
+}
+
+input{
+  justify-content: center;
+  border-radius: 30px;
+border: none;
+background-color:pink;
+filter: brightness(1);
+}
+
+.btn{
+  justify-content: center;
+  background-color: rgba(255, 99, 71, 0.4);
+  border: none;
+  border-radius: 10px;
+  text-size-adjust: 10px;
+  border:2px solid white;
+
+
+}
+
